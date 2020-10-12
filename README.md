@@ -1,2 +1,2 @@
 # front-netflix-example
-# exercicie Digital Innovation One
+# Digital Innovation One
